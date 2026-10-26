@@ -21,3 +21,6 @@ ENV/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Per-PC settings written by First_Time_Setup.bat (personal paths); never commit
+settings.ini
